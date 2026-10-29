@@ -16,7 +16,8 @@
     "name": "customers-presentation",
     "tags": [
       "scope:customers",
-      "type:presentation"
+      "type:presentation",
+      "platform:backend"
     ]
   },
   "dependencies": {}

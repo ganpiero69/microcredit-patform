@@ -19,7 +19,8 @@
     "name": "customers-domain",
     "tags": [
       "scope:customers",
-      "type:domain"
+      "type:domain",
+      "platform:backend"
     ]
   },
   "dependencies": {

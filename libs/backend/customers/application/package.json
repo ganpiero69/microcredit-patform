@@ -16,7 +16,8 @@
     "name": "customers-application",
     "tags": [
       "scope:customers",
-      "type:application"
+      "type:application",
+      "platform:backend"
     ]
   },
   "dependencies": {}

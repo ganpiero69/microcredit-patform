@@ -16,7 +16,8 @@
     "name": "customers-infrastructure",
     "tags": [
       "scope:customers",
-      "type:infrastructure"
+      "type:infrastructure",
+      "platform:backend"
     ]
   },
   "dependencies": {}
