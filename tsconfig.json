@@ -5,6 +5,21 @@
   "references": [
     {
       "path": "./libs/backend/customers/domain"
+    },
+    {
+      "path": "./libs/backend/customers/application"
+    },
+    {
+      "path": "./libs/backend/customers/infrastructure"
+    },
+    {
+      "path": "./libs/backend/customers/presentation"
+    },
+    {
+      "path": "./apps/api-e2e"
+    },
+    {
+      "path": "./apps/api"
     }
   ],
   "compilerOptions": {}
